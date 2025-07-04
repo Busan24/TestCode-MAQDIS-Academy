@@ -1,6 +1,6 @@
 # 🧪 Test Kompetensi Frontend - MAQDIS Academy
 
-Proyek ini merupakan hasil pengerjaan **Tes Kompetensi Magang Frontend** menggunakan **React JS + Vite**, sesuai instruksi dari MAQDIS Academy. Dibuat dengan struktur modular dan responsif, serta menggunakan ESModules dan CSS murni (tanpa framework UI seperti Tailwind atau Bootstrap).
+Proyek ini merupakan hasil pengerjaan **Tes Kompetensi Magang Frontend** menggunakan **React JS + Vite**, sesuai instruksi dari MAQDIS Academy. Dibuat dengan struktur modular dan responsif, serta menggunakan ESModules CSS, dan JavaScript.
 
 ---
 
