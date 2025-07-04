@@ -22,25 +22,18 @@ testcode-maqdis-academy/
 > Pastikan sudah menginstall  npm
 
 ### 1. Clone Repository
-```bash
+
 git clone https://github.com/Busan24/TestCode-MAQDIS-Academy.git
 cd TestCode-MAQDIS-Academy
 
-2. Masuk ke folder tugas (pilih salah satu)
+### 2. Masuk ke folder tugas (pilih salah satu)
 Contoh untuk tugas 1:
-
-bash
-Copy
-Edit
 cd tugas-1
-3. Install Dependencies
-bash
-Copy
-Edit
+
+### 3. Install Dependencies
 npm install
-4. Jalankan Aplikasi
-bash
-Copy
-Edit
+
+### 4. Jalankan Aplikasi
+
 npm run dev
 
